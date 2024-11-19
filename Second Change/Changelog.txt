@@ -1,0 +1,10 @@
+Changelog
+
+Nov 19th 2024
+##Changed
+- The comments have been changed to be more detailed, and I have added more of my own understanding of the code.
+
+Nov 18th 2024
+##Added
+- Add default constructors for HealthProfessional and its subclasses.
+- Create 3 GeneralPractitioner objects
